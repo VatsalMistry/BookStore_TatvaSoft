@@ -1,2 +1,2 @@
 # BookStore_TatvaSoft
-It is a summer internship project that build in .net and reactjs.
+BookStore is a summer internship 2022 (TatvaSoft Company) project that is developed in a ReactJS, Dotnet and PostgreSQL technology
